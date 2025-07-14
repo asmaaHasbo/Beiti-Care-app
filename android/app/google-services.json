@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781442616179",
+    "project_id": "test-a43ec",
+    "storage_bucket": "test-a43ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781442616179:android:101c650d09b56897649306",
+        "android_client_info": {
+          "package_name": "com.example.beiti_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTS79VsmNW8knHXBAYE50emJ1AMmf6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

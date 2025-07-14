@@ -1,0 +1,2 @@
+D:/freelance/beiti-care/android/app/.cxx/Debug/x6v6s2w1/x86_64/CMakeFiles/edit_cache.dir
+D:/freelance/beiti-care/android/app/.cxx/Debug/x6v6s2w1/x86_64/CMakeFiles/rebuild_cache.dir
